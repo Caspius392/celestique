@@ -1,0 +1,11 @@
+# CELESTIQUE Robots.txt
+# https://celestique.uk
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://celestique.uk/sitemap.xml
+
+# Disallow admin/internal paths (none currently)
+# Disallow: /admin/

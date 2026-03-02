@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://celestique.uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Collection -->
+  <url>
+    <loc>https://celestique.uk/collection</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/collection"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/collection"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/collection"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Our Philosophy -->
+  <url>
+    <loc>https://celestique.uk/philosophy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/philosophy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/philosophy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/philosophy"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Formulation & Quality -->
+  <url>
+    <loc>https://celestique.uk/formulation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/formulation"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/formulation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/formulation"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact -->
+  <url>
+    <loc>https://celestique.uk/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/contact"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/contact"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Product Pages -->
+  <url>
+    <loc>https://celestique.uk/product/firming-eye-cream</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/firming-eye-cream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/firming-eye-cream"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/firming-eye-cream"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/night-elixir</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/night-elixir"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/night-elixir"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/night-elixir"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/moisturising-cream</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/moisturising-cream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/moisturising-cream"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/moisturising-cream"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/anti-aging-serum</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/anti-aging-serum"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/anti-aging-serum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/anti-aging-serum"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/vitamin-c-serum</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/vitamin-c-serum"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/vitamin-c-serum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/vitamin-c-serum"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/rose-day-cream</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/rose-day-cream"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/rose-day-cream"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/rose-day-cream"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/facial-toner</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/facial-toner"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/facial-toner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/facial-toner"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/sun-cream-spf50</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/sun-cream-spf50"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/sun-cream-spf50"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/sun-cream-spf50"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/face-cleanser-gel</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/face-cleanser-gel"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/face-cleanser-gel"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/face-cleanser-gel"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/exfoliating-cleanser</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/exfoliating-cleanser"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/exfoliating-cleanser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/exfoliating-cleanser"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/micellar-cleansing-water</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/micellar-cleansing-water"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/micellar-cleansing-water"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/micellar-cleansing-water"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/two-phase-makeup-remover</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/two-phase-makeup-remover"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/two-phase-makeup-remover"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/two-phase-makeup-remover"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/honey-milk-body-lotion</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/honey-milk-body-lotion"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/honey-milk-body-lotion"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/honey-milk-body-lotion"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/honeycomb-cream-body-mist</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/honeycomb-cream-body-mist"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/honeycomb-cream-body-mist"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/honeycomb-cream-body-mist"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/hair-care-oil</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/hair-care-oil"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/hair-care-oil"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/hair-care-oil"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://celestique.uk/product/makeup-setting-spray</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://celestique.uk/product/makeup-setting-spray"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://celestique.uk/product/makeup-setting-spray"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://celestique.uk/product/makeup-setting-spray"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
